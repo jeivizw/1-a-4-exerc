@@ -1,0 +1,2 @@
+let poderFinal = (500 + 200) * 3; 
+alert("O poder final de Ikki é: " + poderFinal);
